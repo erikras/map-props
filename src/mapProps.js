@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import {getDisplayName} from './util';
 
 export default function mapProps(mapping) {
   return DecoratedComponent =>
