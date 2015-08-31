@@ -1,6 +1,6 @@
 {
   "name": "map-props",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "A higher order component to map React props",
   "main": "./lib/index.js",
   "repository": {
