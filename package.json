@@ -33,7 +33,7 @@
     "eslint": "^1.5.1",
     "eslint-config-airbnb": "^0.0.7",
     "eslint-plugin-react": "^3.5.1",
-    "react": "^0.13.3",
+    "react": "^0.14.2",
     "rifraf": "^2.0.2",
     "rimraf": "^2.4.3",
     "webpack": "^1.12.2"
